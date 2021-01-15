@@ -1,0 +1,14 @@
+{
+  "name": "src_terminal",
+  "version": "1.0.0",
+  "description": "A next-generation terminal for Windows and Unix, focused on speed and integrations.",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davy Koravand",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
